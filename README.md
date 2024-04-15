@@ -1,4 +1,4 @@
-*PyMotionAnimator
+**PyMotionAnimator**
 
 PyMotionAnimator is a Python-based tool for animating characters over backgrounds, resulting in dynamic videos. It seamlessly merges background and character images to create captivating visual content. Users can explore endless possibilities in character animation with this versatile program.
 
