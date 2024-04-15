@@ -4,7 +4,7 @@ PyMotionAnimator is a Python-based tool for animating characters over background
 
 ## How to Use
 
-Before executing the program, ensure all background images are stored in `input/backgrounds` and character images are stored in `input/characters`. After execution, the resulting videos will be stored in 'output/final_videos'.
+Before executing the program, ensure all background images are stored in `input/backgrounds` and character images are stored in `input/characters`. After execution, the resulting videos will be stored in `output/final_videos`.
 
 To supervise the process, check the other folders in the output directory to observe the program drawing over the backgrounds and generating the videos.
 
