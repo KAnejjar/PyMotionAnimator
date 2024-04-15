@@ -1,12 +1,15 @@
-#PyMotionAnimator
+*PyMotionAnimator
+
 PyMotionAnimator is a Python-based tool for animating characters over backgrounds, resulting in dynamic videos. It seamlessly merges background and character images to create captivating visual content. Users can explore endless possibilities in character animation with this versatile program.
 
-##How to Use
-Before executing the program, ensure all background images are stored in input/backgrounds and character images are stored in input/characters. After execution, the resulting videos will be stored in output/final_videos.
+
+**How to Use
+Before executing the program, ensure all background images are stored in --input/backgrounds-- and character images are stored in --input/characters--. After execution, the resulting videos will be stored in --output/final_videos--.
 
 To supervise the process, check the other folders in the output directory to observe the program drawing over the backgrounds and generating the videos.
 
-##Getting Started
+
+**Getting Started
 1-Clone the repository.
 2-Place background images in input/backgrounds.
 3-Place character images in input/characters.
